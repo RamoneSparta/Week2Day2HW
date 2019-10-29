@@ -1,2 +1,2 @@
 # Inheritance
-First Inheritance HW
+Encapuslation HW
