@@ -71,6 +71,23 @@ namespace Inheritance_Practice__Spelunky
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
+            MethodExample methodExample = new MethodExample();
+            string myString = methodExample.ReverseString("Please reverse me");
+            // ^Assignment opporator
+            Console.WriteLine(myString);
+        }
+    }
+
+    class MethodExample 
+    {
+        // Every method has an access specifier, return type
+        // It also has a name and arguments if needed and finally a body
+
+        public string ReverseString(string str) 
+        {
+
+            return "string has been reversed";
         }
     }
 }
@@ -86,4 +103,6 @@ namespace Spelunky_Game
         Weapons Shotgun = new Weapons();
         Shopkeeper shopkeeper = new Shopkeeper();
     }
+
+
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ramone Nelson\\Engineering45\\Week2\\Day1\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky.csproj",
+      "projectUniqueName": "C:\\Users\\Ramone Nelson\\Engineering45\\Week2\\Day2\\Homework_W2_D2\\Inheritance\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky.csproj",
       "projectName": "Inheritance Practice- Spelunky",
-      "projectPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week2\\Day1\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky.csproj",
+      "projectPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week2\\Day2\\Homework_W2_D2\\Inheritance\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky.csproj",
       "packagesPath": "C:\\Users\\Ramone Nelson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week2\\Day1\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky\\obj\\",
+      "outputPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week2\\Day2\\Homework_W2_D2\\Inheritance\\Inheritance Practice- Spelunky\\Inheritance Practice- Spelunky\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
